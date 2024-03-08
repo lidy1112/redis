@@ -1,6 +1,6 @@
 spring:
   data:
     redis:
-      password: ENC(LvtfXLy63afP38crWp4BwXGtZrJkUU1w)
+      password: ENC(sp9Ry91GH9CU58zmxrN8hEyKUWpQxFPu)
       host: 192.168.45.7
       port: 6379
